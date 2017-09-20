@@ -101,6 +101,7 @@
             android:name=".ChatActivity"
             android:windowSoftInputMode="adjustResize|stateHidden">
         </activity>
+        <activity android:name=".ConversationListActivity"/>
 
         <!-- 设置环信应用的 appkey 换成自己的-->
         <meta-data

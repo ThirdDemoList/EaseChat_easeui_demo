@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "E:\\Github\\EaseChat_easeui_demo\\easeui\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
+        "outputFile": "/Users/mark/Desktop/Document/GitHub/EaseChat_easeui_demo/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
         "map": [
             {
                 "to": {
@@ -12,33 +12,7 @@
                     "endOffset": 327
                 },
                 "from": {
-                    "file": "E:\\Github\\EaseChat_easeui_demo\\easeui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 55,
-                        "endLine": 6,
-                        "endColumn": 13,
-                        "endOffset": 327
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "E:\\document\\GITHUB\\EaseChat_easeui_demo\\easeui\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endLine": 6,
-                    "endColumn": 13,
-                    "endOffset": 327
-                },
-                "from": {
-                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\27e5c507e4fac61b3d98e6b619d19fb1ddf34517\\output\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "file": "/Users/mark/.android/build-cache/4fafdc9e8ba1193cc45d98c7683a019421a085ba/output/res/values-hdpi-v4/values-hdpi-v4.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

@@ -22,7 +22,8 @@ public class MainActivity extends AppCompatActivity {
     private Button mStartChatBtn;
     // 退出登录
     private Button mSignOutBtn;
-
+    //会话列表
+    private Button mConversationList;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -78,6 +79,15 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 signOut();
+            }
+        });
+
+        mConversationList = (Button) findViewById(R.id.ec_btn_conversationlist);
+        mConversationList.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(MainActivity.this,ConversationListActivity.class);
+                startActivity(intent);
             }
         });
     }

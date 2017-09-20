@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "E:\\Github\\EaseChat_easeui_demo\\easeui\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+        "outputFile": "/Users/mark/Desktop/Document/GitHub/EaseChat_easeui_demo/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 108
                 },
                 "from": {
-                    "file": "E:\\Github\\EaseChat_easeui_demo\\easeui\\src\\main\\res\\values-w820dp\\ease_dimens.xml",
+                    "file": "/Users/mark/Desktop/Document/GitHub/EaseChat_easeui_demo/easeui/src/main/res/values-w820dp/ease_dimens.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,

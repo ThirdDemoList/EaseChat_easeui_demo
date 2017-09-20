@@ -1,10 +1,10 @@
 [
     {
-        "merged": "E:\\Github\\EaseChat_easeui_demo\\easeui\\build\\intermediates\\res\\merged\\release\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
-        "source": "E:\\Github\\EaseChat_easeui_demo\\easeui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+        "merged": "/Users/mark/Desktop/Document/GitHub/EaseChat_easeui_demo/easeui/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/mark/.android/build-cache/4fafdc9e8ba1193cc45d98c7683a019421a085ba/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
     },
     {
-        "merged": "E:\\Github\\EaseChat_easeui_demo\\easeui\\build\\intermediates\\res\\merged\\release\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
-        "source": "E:\\Github\\EaseChat_easeui_demo\\easeui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+        "merged": "/Users/mark/Desktop/Document/GitHub/EaseChat_easeui_demo/easeui/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/mark/.android/build-cache/4fafdc9e8ba1193cc45d98c7683a019421a085ba/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
     }
 ]

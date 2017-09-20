@@ -10,7 +10,7 @@ public class ChatActivity extends AppCompatActivity {
 
     // 当前聊天的 ID
     private String mChatId;
-    private EaseChatFragment chatFragment;
+    public EaseChatFragment chatFragment;
     //环信聊天界面
     private EaseTitleBar titleBar;
 
@@ -33,9 +33,10 @@ public class ChatActivity extends AppCompatActivity {
      * 初始化界面
      */
     private void initView() {
-      /*  titleBar = (EaseTitleBar)findViewById(R.id.title_bar);
+       /* titleBar = (EaseTitleBar)findViewById(R.id.title_bar);
         titleBar.setTitle("张建国");
         titleBar.setRightImageResource(R.drawable.ease_mm_title_remove);*/
+       chatFragment.hideTitleBar();
     }
 
 
