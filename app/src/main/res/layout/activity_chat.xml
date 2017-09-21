@@ -4,11 +4,11 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.demo.mark.easechat_easeui_demo.ChatActivity">
+    tools:context="com.demo.mark.easechat_easeui_demo.ui.ChatActivity">
 
     <!--控件集装箱，用来替换聊天界面-->
     <FrameLayout
-        android:id="@+id/ec_layout_container"
+        android:id="@+id/layout_chat"
         android:layout_width="match_parent"
         android:layout_height="match_parent">
     </FrameLayout>

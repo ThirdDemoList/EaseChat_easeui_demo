@@ -1,14 +1,18 @@
 [
     {
-        "merged": "/Users/mark/Desktop/Document/GitHub/EaseChat_easeui_demo/easeui/build/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
-        "source": "/Users/mark/.android/build-cache/4fafdc9e8ba1193cc45d98c7683a019421a085ba/output/res/drawable-v21/abc_edit_text_material.xml"
+        "merged": "E:\\document\\GITHUB\\EaseChat_easeui_demo\\easeui\\build\\intermediates\\res\\merged\\release\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f5c7b3a63984de2adb1f1207d3dd5510275e2390\\output\\res\\drawable-v21\\notification_action_background.xml"
     },
     {
-        "merged": "/Users/mark/Desktop/Document/GitHub/EaseChat_easeui_demo/easeui/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
-        "source": "/Users/mark/.android/build-cache/4fafdc9e8ba1193cc45d98c7683a019421a085ba/output/res/drawable-v21/abc_btn_colored_material.xml"
+        "merged": "E:\\document\\GITHUB\\EaseChat_easeui_demo\\easeui\\build\\intermediates\\res\\merged\\release\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f5c7b3a63984de2adb1f1207d3dd5510275e2390\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
     },
     {
-        "merged": "/Users/mark/Desktop/Document/GitHub/EaseChat_easeui_demo/easeui/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
-        "source": "/Users/mark/.android/build-cache/4fafdc9e8ba1193cc45d98c7683a019421a085ba/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+        "merged": "E:\\document\\GITHUB\\EaseChat_easeui_demo\\easeui\\build\\intermediates\\res\\merged\\release\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f5c7b3a63984de2adb1f1207d3dd5510275e2390\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\document\\GITHUB\\EaseChat_easeui_demo\\easeui\\build\\intermediates\\res\\merged\\release\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f5c7b3a63984de2adb1f1207d3dd5510275e2390\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
     }
 ]

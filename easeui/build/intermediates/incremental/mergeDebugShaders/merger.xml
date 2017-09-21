@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/Users/mark/Desktop/Document/GitHub/EaseChat_easeui_demo/easeui/src/main/shaders"/></dataSet><dataSet config="debug"><source path="/Users/mark/Desktop/Document/GitHub/EaseChat_easeui_demo/easeui/src/debug/shaders"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="E:\document\GITHUB\EaseChat_easeui_demo\easeui\src\main\shaders"/></dataSet><dataSet config="debug"><source path="E:\document\GITHUB\EaseChat_easeui_demo\easeui\src\debug\shaders"/></dataSet></merger>

@@ -1,16 +1,19 @@
 package com.demo.mark.easechat_easeui_demo;
 
-import android.app.ActivityManager;
 import android.app.Application;
 import android.content.Context;
-import android.content.pm.PackageManager;
+import android.content.Intent;
+import android.widget.Toast;
 
+import com.demo.mark.easechat_easeui_demo.ui.LoginRegisterActivity;
+import com.hyphenate.EMConnectionListener;
+import com.hyphenate.EMError;
 import com.hyphenate.chat.EMClient;
 import com.hyphenate.chat.EMOptions;
 import com.hyphenate.easeui.EaseUI;
+import com.hyphenate.util.EMLog;
 
-import java.util.Iterator;
-import java.util.List;
+import static com.hyphenate.chat.EMGCMListenerService.TAG;
 
 /**
  * Created by lz on 2016/4/16.
@@ -20,9 +23,10 @@ public class MyApplication extends Application {
 
     // 上下文菜单
     private Context mContext;
-
     // 记录是否已经初始化
     private boolean isInit = false;
+
+    private volatile static MyApplication INSTANCE ;
 
     @Override
     public void onCreate() {
@@ -31,6 +35,20 @@ public class MyApplication extends Application {
 
         // 初始化环信SDK
         initEasemob();
+    }
+
+    /**
+     * 单例模式
+     * */
+    public static MyApplication getInstance(){
+        if (INSTANCE == null){
+            synchronized(MyApplication.class){
+                if (INSTANCE == null){
+                    INSTANCE = new MyApplication();
+                }
+            }
+        }
+        return INSTANCE;
     }
 
     /**
@@ -46,8 +64,6 @@ public class MyApplication extends Application {
             // 设置初始化已经完成
             isInit = true;
         }
-
-
     }
 
     /**

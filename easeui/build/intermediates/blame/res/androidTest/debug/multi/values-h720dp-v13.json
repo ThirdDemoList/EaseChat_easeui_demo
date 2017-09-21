@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/mark/Desktop/Document/GitHub/EaseChat_easeui_demo/easeui/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml",
+        "outputFile": "E:\\document\\GITHUB\\EaseChat_easeui_demo\\easeui\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-h720dp-v13\\values-h720dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 117
                 },
                 "from": {
-                    "file": "/Users/mark/.android/build-cache/4fafdc9e8ba1193cc45d98c7683a019421a085ba/output/res/values-h720dp-v13/values-h720dp-v13.xml",
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\f5c7b3a63984de2adb1f1207d3dd5510275e2390\\output\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
