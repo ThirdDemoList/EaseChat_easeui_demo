@@ -12,16 +12,12 @@
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\f5c7b3a63984de2adb1f1207d3dd5510275e2390\\output\\res\\layout\\notification_template_icon_group.xml"
     },
     {
-        "merged": "E:\\document\\GITHUB\\EaseChat_easeui_demo\\easeui\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\27e5c507e4fac61b3d98e6b619d19fb1ddf34517\\output\\res\\layout\\notification_template_big_media.xml"
+        "merged": "E:\\document\\GITHUB\\EaseChat_easeui_demo\\easeui\\build\\intermediates\\res\\merged\\release\\layout\\ease_expression_gridview.xml",
+        "source": "E:\\document\\GITHUB\\EaseChat_easeui_demo\\easeui\\src\\main\\res\\layout\\ease_expression_gridview.xml"
     },
     {
         "merged": "E:\\document\\GITHUB\\EaseChat_easeui_demo\\easeui\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_part_time.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\f5c7b3a63984de2adb1f1207d3dd5510275e2390\\output\\res\\layout\\notification_template_part_time.xml"
-    },
-    {
-        "merged": "E:\\document\\GITHUB\\EaseChat_easeui_demo\\easeui\\build\\intermediates\\res\\merged\\release\\layout\\ease_expression_gridview.xml",
-        "source": "E:\\document\\GITHUB\\EaseChat_easeui_demo\\easeui\\src\\main\\res\\layout\\ease_expression_gridview.xml"
     },
     {
         "merged": "E:\\document\\GITHUB\\EaseChat_easeui_demo\\easeui\\build\\intermediates\\res\\merged\\release\\layout\\ease_widget_emojicon.xml",
@@ -32,12 +28,12 @@
         "source": "E:\\document\\GITHUB\\EaseChat_easeui_demo\\easeui\\src\\main\\res\\layout\\ease_activity_baidumap.xml"
     },
     {
-        "merged": "E:\\document\\GITHUB\\EaseChat_easeui_demo\\easeui\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_item_material.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f5c7b3a63984de2adb1f1207d3dd5510275e2390\\output\\res\\layout\\select_dialog_item_material.xml"
-    },
-    {
         "merged": "E:\\document\\GITHUB\\EaseChat_easeui_demo\\easeui\\build\\intermediates\\res\\merged\\release\\layout\\ease_row_expression.xml",
         "source": "E:\\document\\GITHUB\\EaseChat_easeui_demo\\easeui\\src\\main\\res\\layout\\ease_row_expression.xml"
+    },
+    {
+        "merged": "E:\\document\\GITHUB\\EaseChat_easeui_demo\\easeui\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f5c7b3a63984de2adb1f1207d3dd5510275e2390\\output\\res\\layout\\select_dialog_item_material.xml"
     },
     {
         "merged": "E:\\document\\GITHUB\\EaseChat_easeui_demo\\easeui\\build\\intermediates\\res\\merged\\release\\layout\\ease_row_sent_voice.xml",
@@ -72,16 +68,16 @@
         "source": "E:\\document\\GITHUB\\EaseChat_easeui_demo\\easeui\\src\\main\\res\\layout\\ease_row_sent_picture.xml"
     },
     {
+        "merged": "E:\\document\\GITHUB\\EaseChat_easeui_demo\\easeui\\build\\intermediates\\res\\merged\\release\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f5c7b3a63984de2adb1f1207d3dd5510275e2390\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
         "merged": "E:\\document\\GITHUB\\EaseChat_easeui_demo\\easeui\\build\\intermediates\\res\\merged\\release\\layout\\ease_chat_message_list.xml",
         "source": "E:\\document\\GITHUB\\EaseChat_easeui_demo\\easeui\\src\\main\\res\\layout\\ease_chat_message_list.xml"
     },
     {
         "merged": "E:\\document\\GITHUB\\EaseChat_easeui_demo\\easeui\\build\\intermediates\\res\\merged\\release\\layout\\ease_row_sent_video.xml",
         "source": "E:\\document\\GITHUB\\EaseChat_easeui_demo\\easeui\\src\\main\\res\\layout\\ease_row_sent_video.xml"
-    },
-    {
-        "merged": "E:\\document\\GITHUB\\EaseChat_easeui_demo\\easeui\\build\\intermediates\\res\\merged\\release\\layout\\notification_action_tombstone.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f5c7b3a63984de2adb1f1207d3dd5510275e2390\\output\\res\\layout\\notification_action_tombstone.xml"
     },
     {
         "merged": "E:\\document\\GITHUB\\EaseChat_easeui_demo\\easeui\\build\\intermediates\\res\\merged\\release\\layout\\ease_row_big_expression.xml",
@@ -96,12 +92,12 @@
         "source": "E:\\document\\GITHUB\\EaseChat_easeui_demo\\easeui\\src\\main\\res\\layout\\ease_row_received_location.xml"
     },
     {
-        "merged": "E:\\document\\GITHUB\\EaseChat_easeui_demo\\easeui\\build\\intermediates\\res\\merged\\release\\layout\\ease_row_received_message.xml",
-        "source": "E:\\document\\GITHUB\\EaseChat_easeui_demo\\easeui\\src\\main\\res\\layout\\ease_row_received_message.xml"
-    },
-    {
         "merged": "E:\\document\\GITHUB\\EaseChat_easeui_demo\\easeui\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_lines_media.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\f5c7b3a63984de2adb1f1207d3dd5510275e2390\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "E:\\document\\GITHUB\\EaseChat_easeui_demo\\easeui\\build\\intermediates\\res\\merged\\release\\layout\\ease_row_received_message.xml",
+        "source": "E:\\document\\GITHUB\\EaseChat_easeui_demo\\easeui\\src\\main\\res\\layout\\ease_row_received_message.xml"
     },
     {
         "merged": "E:\\document\\GITHUB\\EaseChat_easeui_demo\\easeui\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_menu_item_layout.xml",
@@ -160,16 +156,12 @@
         "source": "E:\\document\\GITHUB\\EaseChat_easeui_demo\\easeui\\src\\main\\res\\layout\\ease_activity_show_file.xml"
     },
     {
-        "merged": "E:\\document\\GITHUB\\EaseChat_easeui_demo\\easeui\\build\\intermediates\\res\\merged\\release\\layout\\ease_row_received_voice_call.xml",
-        "source": "E:\\document\\GITHUB\\EaseChat_easeui_demo\\easeui\\src\\main\\res\\layout\\ease_row_received_voice_call.xml"
-    },
-    {
         "merged": "E:\\document\\GITHUB\\EaseChat_easeui_demo\\easeui\\build\\intermediates\\res\\merged\\release\\layout\\ease_widget_emojicon_tab_bar.xml",
         "source": "E:\\document\\GITHUB\\EaseChat_easeui_demo\\easeui\\src\\main\\res\\layout\\ease_widget_emojicon_tab_bar.xml"
     },
     {
-        "merged": "E:\\document\\GITHUB\\EaseChat_easeui_demo\\easeui\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media_narrow.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\27e5c507e4fac61b3d98e6b619d19fb1ddf34517\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+        "merged": "E:\\document\\GITHUB\\EaseChat_easeui_demo\\easeui\\build\\intermediates\\res\\merged\\release\\layout\\ease_row_received_voice_call.xml",
+        "source": "E:\\document\\GITHUB\\EaseChat_easeui_demo\\easeui\\src\\main\\res\\layout\\ease_row_received_voice_call.xml"
     },
     {
         "merged": "E:\\document\\GITHUB\\EaseChat_easeui_demo\\easeui\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_title_item.xml",
@@ -240,10 +232,6 @@
         "source": "E:\\document\\GITHUB\\EaseChat_easeui_demo\\easeui\\src\\main\\res\\layout\\ease_row_received_video.xml"
     },
     {
-        "merged": "E:\\document\\GITHUB\\EaseChat_easeui_demo\\easeui\\build\\intermediates\\res\\merged\\release\\layout\\notification_media_action.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\27e5c507e4fac61b3d98e6b619d19fb1ddf34517\\output\\res\\layout\\notification_media_action.xml"
-    },
-    {
         "merged": "E:\\document\\GITHUB\\EaseChat_easeui_demo\\easeui\\build\\intermediates\\res\\merged\\release\\layout\\ease_row_received_bigexpression.xml",
         "source": "E:\\document\\GITHUB\\EaseChat_easeui_demo\\easeui\\src\\main\\res\\layout\\ease_row_received_bigexpression.xml"
     },
@@ -276,12 +264,12 @@
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\f5c7b3a63984de2adb1f1207d3dd5510275e2390\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
     },
     {
-        "merged": "E:\\document\\GITHUB\\EaseChat_easeui_demo\\easeui\\build\\intermediates\\res\\merged\\release\\layout\\ease_search_bar_with_padding.xml",
-        "source": "E:\\document\\GITHUB\\EaseChat_easeui_demo\\easeui\\src\\main\\res\\layout\\ease_search_bar_with_padding.xml"
-    },
-    {
         "merged": "E:\\document\\GITHUB\\EaseChat_easeui_demo\\easeui\\build\\intermediates\\res\\merged\\release\\layout\\abc_popup_menu_header_item_layout.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\f5c7b3a63984de2adb1f1207d3dd5510275e2390\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "E:\\document\\GITHUB\\EaseChat_easeui_demo\\easeui\\build\\intermediates\\res\\merged\\release\\layout\\ease_search_bar_with_padding.xml",
+        "source": "E:\\document\\GITHUB\\EaseChat_easeui_demo\\easeui\\src\\main\\res\\layout\\ease_search_bar_with_padding.xml"
     },
     {
         "merged": "E:\\document\\GITHUB\\EaseChat_easeui_demo\\easeui\\build\\intermediates\\res\\merged\\release\\layout\\ease_row_sent_message.xml",
@@ -300,12 +288,12 @@
         "source": "E:\\document\\GITHUB\\EaseChat_easeui_demo\\easeui\\src\\main\\res\\layout\\ease_conversation_item.xml"
     },
     {
-        "merged": "E:\\document\\GITHUB\\EaseChat_easeui_demo\\easeui\\build\\intermediates\\res\\merged\\release\\layout\\abc_search_view.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f5c7b3a63984de2adb1f1207d3dd5510275e2390\\output\\res\\layout\\abc_search_view.xml"
-    },
-    {
         "merged": "E:\\document\\GITHUB\\EaseChat_easeui_demo\\easeui\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_custom_big.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\f5c7b3a63984de2adb1f1207d3dd5510275e2390\\output\\res\\layout\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "E:\\document\\GITHUB\\EaseChat_easeui_demo\\easeui\\build\\intermediates\\res\\merged\\release\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f5c7b3a63984de2adb1f1207d3dd5510275e2390\\output\\res\\layout\\abc_search_view.xml"
     },
     {
         "merged": "E:\\document\\GITHUB\\EaseChat_easeui_demo\\easeui\\build\\intermediates\\res\\merged\\release\\layout\\abc_expanded_menu_layout.xml",
@@ -336,10 +324,6 @@
         "source": "E:\\document\\GITHUB\\EaseChat_easeui_demo\\easeui\\src\\main\\res\\layout\\ease_widget_contact_list.xml"
     },
     {
-        "merged": "E:\\document\\GITHUB\\EaseChat_easeui_demo\\easeui\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_lines.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\27e5c507e4fac61b3d98e6b619d19fb1ddf34517\\output\\res\\layout\\notification_template_lines.xml"
-    },
-    {
         "merged": "E:\\document\\GITHUB\\EaseChat_easeui_demo\\easeui\\build\\intermediates\\res\\merged\\release\\layout\\ease_fragment_chat.xml",
         "source": "E:\\document\\GITHUB\\EaseChat_easeui_demo\\easeui\\src\\main\\res\\layout\\ease_fragment_chat.xml"
     },
@@ -362,10 +346,6 @@
     {
         "merged": "E:\\document\\GITHUB\\EaseChat_easeui_demo\\easeui\\build\\intermediates\\res\\merged\\release\\layout\\abc_dialog_title_material.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\f5c7b3a63984de2adb1f1207d3dd5510275e2390\\output\\res\\layout\\abc_dialog_title_material.xml"
-    },
-    {
-        "merged": "E:\\document\\GITHUB\\EaseChat_easeui_demo\\easeui\\build\\intermediates\\res\\merged\\release\\layout\\notification_media_cancel_action.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\27e5c507e4fac61b3d98e6b619d19fb1ddf34517\\output\\res\\layout\\notification_media_cancel_action.xml"
     },
     {
         "merged": "E:\\document\\GITHUB\\EaseChat_easeui_demo\\easeui\\build\\intermediates\\res\\merged\\release\\layout\\ease_fragment_contact_list.xml",

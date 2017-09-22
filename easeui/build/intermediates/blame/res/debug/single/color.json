@@ -72,11 +72,11 @@
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\f5c7b3a63984de2adb1f1207d3dd5510275e2390\\output\\res\\color\\abc_tint_switch_thumb.xml"
     },
     {
-        "merged": "E:\\document\\GITHUB\\EaseChat_easeui_demo\\easeui\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f5c7b3a63984de2adb1f1207d3dd5510275e2390\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
-    },
-    {
         "merged": "E:\\document\\GITHUB\\EaseChat_easeui_demo\\easeui\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\f5c7b3a63984de2adb1f1207d3dd5510275e2390\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "E:\\document\\GITHUB\\EaseChat_easeui_demo\\easeui\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f5c7b3a63984de2adb1f1207d3dd5510275e2390\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
     }
 ]

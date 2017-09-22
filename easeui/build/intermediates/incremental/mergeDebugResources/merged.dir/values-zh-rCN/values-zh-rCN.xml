@@ -283,7 +283,7 @@
     <string name="send_failure_please">发送失败，请检测服务器是否连接</string>
     <string name="send_successful">发送请求成功,等待对方验证</string>
     <string name="send_the_request_is">发送请求成功，等待群主同意</string>
-    <string name="session">会话</string>
+    <string name="session">会话列表</string>
     <string name="set">设置</string>
     <string name="setting">设置</string>
     <string name="setting_nickname">设置昵称</string>

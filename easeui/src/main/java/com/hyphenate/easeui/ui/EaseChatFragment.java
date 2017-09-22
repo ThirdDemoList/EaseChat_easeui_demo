@@ -141,6 +141,8 @@ public class EaseChatFragment extends EaseBaseFragment implements EMMessageListe
      * init view
      */
     protected void initView() {
+        //隐藏标题栏
+//        hideTitleBar();
         // hold to record voice
         //noinspection ConstantConditions
         voiceRecorderView = (EaseVoiceRecorderView) getView().findViewById(R.id.voice_recorder);

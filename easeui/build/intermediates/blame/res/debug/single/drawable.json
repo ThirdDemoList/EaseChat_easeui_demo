@@ -160,12 +160,12 @@
         "source": "E:\\document\\GITHUB\\EaseChat_easeui_demo\\easeui\\src\\main\\res\\drawable\\ease_chat_send_btn_selector.xml"
     },
     {
-        "merged": "E:\\document\\GITHUB\\EaseChat_easeui_demo\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_chatto_bg.xml",
-        "source": "E:\\document\\GITHUB\\EaseChat_easeui_demo\\easeui\\src\\main\\res\\drawable\\ease_chatto_bg.xml"
-    },
-    {
         "merged": "E:\\document\\GITHUB\\EaseChat_easeui_demo\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\f5c7b3a63984de2adb1f1207d3dd5510275e2390\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\document\\GITHUB\\EaseChat_easeui_demo\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_chatto_bg.xml",
+        "source": "E:\\document\\GITHUB\\EaseChat_easeui_demo\\easeui\\src\\main\\res\\drawable\\ease_chatto_bg.xml"
     },
     {
         "merged": "E:\\document\\GITHUB\\EaseChat_easeui_demo\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_common_tab_bg.xml",

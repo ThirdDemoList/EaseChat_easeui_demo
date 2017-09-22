@@ -19,6 +19,7 @@ import android.widget.AdapterView.OnItemClickListener;
 import android.widget.EditText;
 import android.widget.FrameLayout;
 import android.widget.ImageButton;
+import android.widget.ImageView;
 
 import com.hyphenate.EMConnectionListener;
 import com.hyphenate.EMConversationListener;
@@ -48,6 +49,8 @@ public class EaseConversationListFragment extends EaseBaseFragment{
     protected FrameLayout errorItemContainer;
 
     protected boolean isConflict;
+
+    protected ImageView leftImage;
     
     protected EMConversationListener convListener = new EMConversationListener(){
 
@@ -78,6 +81,15 @@ public class EaseConversationListFragment extends EaseBaseFragment{
         // button to clear content in search bar
         clearSearch = (ImageButton) getView().findViewById(R.id.search_clear);
         errorItemContainer = (FrameLayout) getView().findViewById(R.id.fl_error_item);
+
+        titleBar.setLeftImageResource(R.drawable.ease_mm_title_back);
+        leftImage = (ImageView) getView().findViewById(R.id.left_image);
+        leftImage.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                getActivity().finish();
+            }
+        });
     }
     
     @Override

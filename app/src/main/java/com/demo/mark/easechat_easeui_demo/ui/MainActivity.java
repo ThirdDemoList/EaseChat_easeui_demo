@@ -1,5 +1,6 @@
 package com.demo.mark.easechat_easeui_demo.ui;
 
+import android.Manifest;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
@@ -11,11 +12,17 @@ import android.widget.EditText;
 import android.widget.Toast;
 
 import com.demo.mark.easechat_easeui_demo.R;
+import com.demo.mark.easechat_easeui_demo.autoruntimepermissions.ActivitiesController;
+import com.demo.mark.easechat_easeui_demo.autoruntimepermissions.PermissionListener;
+import com.demo.mark.easechat_easeui_demo.base.BaseActivity;
 import com.hyphenate.EMCallBack;
 import com.hyphenate.chat.EMClient;
 import com.hyphenate.chat.EMMessage;
 
-public class MainActivity extends AppCompatActivity {
+import java.util.List;
+import java.util.Random;
+
+public class MainActivity extends BaseActivity {
 
     // 发起聊天 username 输入框
     private EditText mChatIdEdit;
@@ -41,7 +48,7 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-
+        ActivitiesController.addActivity(this);
         // 判断sdk是否登录成功过，并没有退出和被踢，否则跳转到登陆界面
         if (!EMClient.getInstance().isLoggedInBefore()) {
             Intent intent = new Intent(MainActivity.this, LoginRegisterActivity.class);
@@ -81,6 +88,8 @@ public class MainActivity extends AppCompatActivity {
                     Intent intent = new Intent(MainActivity.this, ChatActivity.class);
                     // EaseUI封装的聊天界面需要这两个参数，聊天者的username，以及聊天类型，单聊还是群聊
                     intent.putExtra("userId", chatId);
+                    intent.putExtra("nickName",userName);
+                    intent.putExtra("picUrl",avatar[1]);
                     intent.putExtra("chatType", EMMessage.ChatType.Chat);
                     startActivity(intent);
                 } else {
@@ -104,6 +113,30 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View view) {
                 Intent intent = new Intent(MainActivity.this,ConversationListActivity.class);
                 startActivity(intent);
+            }
+        });
+        //动态授权
+        permission();
+        
+    }
+
+    /**
+     * 动态授权
+     * */
+    private void permission() {
+        String[] str = {Manifest.permission.ACCESS_FINE_LOCATION, Manifest.permission.WRITE_EXTERNAL_STORAGE,Manifest.permission.CAMERA,
+                Manifest.permission.RECORD_AUDIO};
+        requestRunPermisssion(str, new PermissionListener() {
+            @Override
+            public void onGranted() {
+               return;
+            }
+
+            @Override
+            public void onDenied(List<String> deniedPermission) {
+                for(String permission : deniedPermission){
+                    Toast.makeText(MainActivity.this, "被拒绝的权限：" + permission, Toast.LENGTH_SHORT).show();
+                }
             }
         });
     }
