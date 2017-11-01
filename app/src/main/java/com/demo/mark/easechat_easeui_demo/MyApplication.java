@@ -33,8 +33,11 @@ public class MyApplication extends Application {
         super.onCreate();
         mContext = this;
 
-        // 初始化环信SDK
-        initEasemob();
+        if (!isInit){
+            // 初始化环信SDK
+            initEasemob();
+            isInit = true;
+        }
     }
 
     /**
