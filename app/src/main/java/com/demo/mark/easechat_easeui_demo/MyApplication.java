@@ -36,7 +36,6 @@ public class MyApplication extends Application {
         if (!isInit){
             // 初始化环信SDK
             initEasemob();
-            isInit = true;
         }
     }
 
