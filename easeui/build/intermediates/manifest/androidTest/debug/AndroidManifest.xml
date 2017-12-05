@@ -13,12 +13,12 @@
         android:label="Tests for com.hyphenate.easeui.test"
         android:targetPackage="com.hyphenate.easeui.test" />
 
-    <meta-data
-        android:name="android.support.VERSION"
-        android:value="25.3.1" />
-
-    <application>
+    <application android:debuggable="true" >
         <uses-library android:name="android.test.runner" />
+
+        <meta-data
+            android:name="android.support.VERSION"
+            android:value="25.4.0" />
     </application>
 
 </manifest>
